@@ -28,4 +28,7 @@ I'm a passionate Frontend Developer with a knack for building interactive, respo
 
 <b>My GitHub Stats</b>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MdMehedi-Hasan&theme=github-dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MdMehedi-Hasan&theme=github-dark" alt="GitHub Streak" /></a>
+
 <a href="http://www.github.com/MdMehedi-Hasan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MdMehedi-Hasan&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
