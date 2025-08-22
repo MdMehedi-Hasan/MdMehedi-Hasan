@@ -7,8 +7,8 @@ Front-End Developer || Full-Stack Enthusiast
 I'm a passionate Frontend Developer with a knack for building interactive, responsive, and user-friendly web applications. With experience across React.js, Next.js, and a range of libraries including React Query, Redux, and styled-components, I strive to create seamless digital experiences.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [http://mehedihassan.xyz/]([http://mehedihassan.xyz/](https://mehedihasan2.netlify.app/))
-* ✉️  You can contact me at [mdmehedihasan9874@gmail.com](mailto:mehedihasan247h@gmail.com)
+* 🖥️  See my portfolio at [https://mehedihasan2.netlify.app/]([https://mehedihasan2.netlify.app/])
+* ✉️  You can contact me at [mehedihasan247h@gmail.com](mailto:mehedihasan247h@gmail.com)
 * 🚀  I'm currently working on [Klassy Missy](http://klassy.com.bd/)
 * 🤝  I'm open to collaborating on Any project that solves real life problem.
 
