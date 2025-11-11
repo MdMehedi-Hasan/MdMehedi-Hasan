@@ -14,7 +14,7 @@ I'm a passionate Frontend Developer with a knack for building interactive, respo
 
 ### Stacks I Work With:
 
-<div align="center" margin>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="70" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
@@ -31,7 +31,6 @@ I'm a passionate Frontend Developer with a knack for building interactive, respo
   <img width="70" />
         <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
   <img width="70" />
-  <br>
   <br>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="70" />
