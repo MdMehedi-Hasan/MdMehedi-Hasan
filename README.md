@@ -14,41 +14,41 @@ I'm a passionate Frontend Developer with a knack for building interactive, respo
 
 ### Stacks I Work With:
 
-
-<div align="center">
+<div align="center" margin>
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
+  <img width="70" />
     <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
+  <img width="70" />
       <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue logo"  />
-  <img width="12" />
+  <img width="70" />
     <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
+  <img width="70" />
     <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img width="70" />
       <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="70" />
     <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="12" />
+  <img width="70" />
         <img src="https://skillicons.dev/icons?i=py" height="60" alt="py logo"  />
-  <img width="12" />
+  <img width="70" />
+  <br>
+  <br>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo"  />
-  <img width="12" />
-
+  <img width="70" />
   <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="materialui logo"  />
-    <img width="12" />
+    <img width="70" />
     <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="12" />
+  <img width="70" />
       <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
+  <img width="70" />
       <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img width="70" />
       <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="12" />
+  <img width="70" />
     <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
+      <img width="70" />
 </div>
 
 ### Socials
