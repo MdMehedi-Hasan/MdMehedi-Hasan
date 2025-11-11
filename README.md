@@ -27,5 +27,8 @@ I'm a passionate Frontend Developer with a knack for building interactive, respo
 ### Badges
 
 <b>My GitHub Stats</b>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MdMehedi-Hasan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MdMehedi-Hasan&theme=github-dark)](https://git.io/streak-stats)
